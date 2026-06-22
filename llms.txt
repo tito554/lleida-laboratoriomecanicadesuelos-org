@@ -1,0 +1,62 @@
+# Lleida
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amplificacion Sismica](https://lleida.laboratoriomecanicadesuelos.org/amplificacion-sismica/)
+- [Anclajes](https://lleida.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas Exploratorias](https://lleida.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Capacidad De Carga](https://lleida.laboratoriomecanicadesuelos.org/capacidad-de-carga/)
+- [Cbr Vial](https://lleida.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://lleida.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Columnas Grava](https://lleida.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Compactacion Dinamica](https://lleida.laboratoriomecanicadesuelos.org/compactacion-dinamica/)
+- [Compresion Simple](https://lleida.laboratoriomecanicadesuelos.org/compresion-simple/)
+- [Corte Directo](https://lleida.laboratoriomecanicadesuelos.org/corte-directo/)
+- [Densidad Cono Arena](https://lleida.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Deslizamientos](https://lleida.laboratoriomecanicadesuelos.org/deslizamientos/)
+- [Dilatometro](https://lleida.laboratoriomecanicadesuelos.org/dilatometro/)
+- [Drenaje Vial](https://lleida.laboratoriomecanicadesuelos.org/drenaje-vial/)
+- [Ensayo Cbr](https://lleida.laboratoriomecanicadesuelos.org/ensayo-cbr/)
+- [Ensayo Cpt](https://lleida.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Spt](https://lleida.laboratoriomecanicadesuelos.org/ensayo-spt/)
+- [Ensayo Triaxial](https://lleida.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Ensayos In Situ](https://lleida.laboratoriomecanicadesuelos.org/ensayos-in-situ/)
+- [Estabilidad Taludes](https://lleida.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://lleida.laboratoriomecanicadesuelos.org/estabilizacion-cal-cemento/)
+- [Estabilizacion Carreteras](https://lleida.laboratoriomecanicadesuelos.org/estabilizacion-carreteras/)
+- [Estabilizacion Taludes](https://lleida.laboratoriomecanicadesuelos.org/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://lleida.laboratoriomecanicadesuelos.org/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://lleida.laboratoriomecanicadesuelos.org/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://lleida.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://lleida.laboratoriomecanicadesuelos.org/excavaciones-subterraneas/)
+- [Exploracion](https://lleida.laboratoriomecanicadesuelos.org/exploracion/)
+- [Falla Taludes](https://lleida.laboratoriomecanicadesuelos.org/falla-taludes/)
+- [Geoceldas](https://lleida.laboratoriomecanicadesuelos.org/geoceldas/)
+- [Geotecnia Vial](https://lleida.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://lleida.laboratoriomecanicadesuelos.org/granulometria/)
+- [Instrumentacion Geotecnica](https://lleida.laboratoriomecanicadesuelos.org/instrumentacion-geotecnica/)
+- [Laboratorio](https://lleida.laboratoriomecanicadesuelos.org/laboratorio/)
+- [Licuefaccion](https://lleida.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://lleida.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Mejoramiento](https://lleida.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Micropilotes](https://lleida.laboratoriomecanicadesuelos.org/micropilotes/)
+- [Muestreo Inalterado](https://lleida.laboratoriomecanicadesuelos.org/muestreo-inalterado/)
+- [Muros Contencion](https://lleida.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Permeabilidad Campo](https://lleida.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Permeabilidad Laboratorio](https://lleida.laboratoriomecanicadesuelos.org/permeabilidad-laboratorio/)
+- [Pilotes Friccion Punta](https://lleida.laboratoriomecanicadesuelos.org/pilotes-friccion-punta/)
+- [Placa De Carga](https://lleida.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Precarga](https://lleida.laboratoriomecanicadesuelos.org/precarga/)
+- [Presurometro](https://lleida.laboratoriomecanicadesuelos.org/presurometro/)
+- [Rellenos Sanitarios](https://lleida.laboratoriomecanicadesuelos.org/rellenos-sanitarios/)
+- [Remediacion Suelos](https://lleida.laboratoriomecanicadesuelos.org/remediacion-suelos/)
+- [Sismica](https://lleida.laboratoriomecanicadesuelos.org/sismica/)
+- [Subrasante Vial](https://lleida.laboratoriomecanicadesuelos.org/subrasante-vial/)
+
+## Contact
+- Website: https://lleida.laboratoriomecanicadesuelos.org/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.

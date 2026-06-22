@@ -1,0 +1,20 @@
+{
+  "name": "Lleida",
+  "short_name": "Lleida",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#556B2F",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Lleida, Spain. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/lleida-6203"
+}
